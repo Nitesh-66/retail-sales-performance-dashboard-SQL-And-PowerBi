@@ -1,0 +1,301 @@
+TransactionID,Date,ProductName,Category,Region,SalesChannel,Quantity,UnitPrice,TotalAmount,PaymentMode,CustomerID
+1,2025-02-15,Shoes,Fashion,West,Online,4,3491,13964,Cash,1036
+2,2025-03-22,Bag,Accessories,South,Offline,3,3080,9240,UPI,1018
+3,2025-01-19,Mobile,Electronics,South,Online,5,35027,175135,Cash,1006
+4,2025-04-10,Jacket,Fashion,West,Offline,2,5745,11490,Credit Card,1030
+5,2025-04-07,Kurta,Fashion,East,Offline,2,1683,3366,Net Banking,1038
+6,2025-06-10,Laptop,Electronics,South,Offline,3,64091,192273,UPI,1028
+7,2025-03-01,Watch,Accessories,North,Online,2,1721,3442,Cash,1036
+8,2025-04-22,Watch,Accessories,East,Online,3,11806,35418,Cash,1008
+9,2025-03-14,Smart Watch,Electronics,East,Offline,2,5868,11736,Net Banking,1037
+10,2025-02-13,Belt,Accessories,South,Online,4,906,3624,Credit Card,1039
+11,2025-02-11,Bed,Furniture,South,Online,2,26263,52526,Cash,1012
+12,2025-03-04,Bed,Furniture,West,Offline,1,32189,32189,UPI,1021
+13,2025-03-10,Jeans,Fashion,North,Offline,5,3743,18715,Cash,1040
+14,2025-02-23,Kurta,Fashion,North,Online,4,2293,9172,Net Banking,1007
+15,2025-02-19,Watch,Accessories,East,Online,5,8294,41470,UPI,1043
+16,2025-02-06,Camera,Electronics,South,Offline,3,31594,94782,Cash,1026
+17,2025-05-23,Chair,Furniture,North,Offline,3,5774,17322,UPI,1047
+18,2025-02-01,Smart Watch,Electronics,South,Online,2,7426,14852,UPI,1045
+19,2025-02-28,Smart Watch,Electronics,West,Offline,2,10204,20408,Cash,1047
+20,2025-01-21,Mobile,Electronics,East,Offline,3,29894,89682,Credit Card,1011
+21,2025-01-09,Speaker,Electronics,North,Offline,2,5169,10338,Cash,1012
+22,2025-05-15,Smart Watch,Electronics,East,Online,2,11067,22134,UPI,1011
+23,2025-04-05,Bed,Furniture,North,Online,1,13423,13423,UPI,1029
+24,2025-06-16,Chair,Furniture,West,Offline,2,5578,11156,UPI,1006
+25,2025-06-08,Smart Watch,Electronics,North,Offline,5,5013,25065,Cash,1027
+26,2025-03-21,Smart Watch,Electronics,South,Online,2,2534,5068,Credit Card,1034
+27,2025-03-03,Cupboard,Furniture,West,Offline,4,14006,56024,Credit Card,1041
+28,2025-03-11,Chair,Furniture,West,Online,4,6719,26876,Net Banking,1032
+29,2025-03-30,Camera,Electronics,South,Online,2,68115,136230,Net Banking,1040
+30,2025-04-13,Bag,Accessories,South,Online,1,1180,1180,Cash,1030
+31,2025-05-02,Mobile,Electronics,South,Online,5,39174,195870,Cash,1045
+32,2025-02-18,Bag,Accessories,South,Offline,1,4843,4843,Net Banking,1007
+33,2025-04-02,Belt,Accessories,West,Offline,2,963,1926,Net Banking,1025
+34,2025-05-23,Bed,Furniture,West,Online,2,41705,83410,Net Banking,1026
+35,2025-05-06,Smart Watch,Electronics,West,Online,2,8399,16798,Cash,1038
+36,2025-05-14,Laptop,Electronics,East,Online,2,76406,152812,Credit Card,1024
+37,2025-05-12,Sunglasses,Accessories,West,Online,3,3944,11832,Net Banking,1022
+38,2025-04-05,Camera,Electronics,North,Online,3,49478,148434,UPI,1001
+39,2025-01-28,Smart Watch,Electronics,West,Offline,4,4246,16984,Cash,1007
+40,2025-01-03,Kurta,Fashion,South,Online,1,785,785,Net Banking,1035
+41,2025-06-09,Bed,Furniture,North,Offline,1,41772,41772,Net Banking,1038
+42,2025-05-23,Watch,Accessories,West,Online,1,11651,11651,Net Banking,1046
+43,2025-03-27,Jacket,Fashion,East,Online,4,2551,10204,UPI,1008
+44,2025-06-04,T-Shirt,Fashion,East,Offline,2,782,1564,Net Banking,1036
+45,2025-04-14,Sofa,Furniture,South,Offline,4,23816,95264,UPI,1022
+46,2025-06-03,Jeans,Fashion,West,Offline,2,2997,5994,Credit Card,1006
+47,2025-05-25,Watch,Accessories,South,Online,5,10990,54950,Net Banking,1014
+48,2025-06-10,T-Shirt,Fashion,East,Offline,5,1256,6280,Credit Card,1031
+49,2025-04-21,Shoes,Fashion,East,Offline,2,2017,4034,Net Banking,1002
+50,2025-01-31,T-Shirt,Fashion,East,Offline,3,1210,3630,UPI,1023
+51,2025-05-09,Jeans,Fashion,South,Online,2,2848,5696,Net Banking,1042
+52,2025-01-07,Table,Furniture,West,Online,5,9453,47265,Net Banking,1035
+53,2025-04-17,Headphones,Electronics,South,Online,4,4166,16664,Credit Card,1014
+54,2025-01-26,Chair,Furniture,East,Offline,5,5057,25285,Net Banking,1033
+55,2025-01-14,Belt,Accessories,West,Online,1,961,961,Net Banking,1007
+56,2025-03-18,Camera,Electronics,South,Online,3,46535,139605,Net Banking,1040
+57,2025-05-19,Kurta,Fashion,West,Offline,2,1230,2460,Cash,1048
+58,2025-02-19,Cupboard,Furniture,East,Online,2,19521,39042,UPI,1031
+59,2025-01-09,Jeans,Fashion,South,Online,5,3664,18320,Credit Card,1011
+60,2025-03-03,Wallet,Accessories,South,Offline,5,1058,5290,Net Banking,1021
+61,2025-04-30,Chair,Furniture,North,Offline,2,5635,11270,Net Banking,1014
+62,2025-04-17,Watch,Accessories,East,Online,2,6387,12774,UPI,1029
+63,2025-03-03,Jacket,Fashion,North,Offline,1,3815,3815,Cash,1027
+64,2025-06-04,Speaker,Electronics,West,Online,1,6544,6544,UPI,1043
+65,2025-05-29,Smart Watch,Electronics,West,Online,5,14194,70970,Net Banking,1007
+66,2025-06-14,Jeans,Fashion,North,Online,2,1759,3518,Cash,1023
+67,2025-01-22,Jacket,Fashion,West,Online,1,5950,5950,Credit Card,1050
+68,2025-01-13,Sofa,Furniture,West,Online,2,39798,79596,UPI,1039
+69,2025-04-19,Jacket,Fashion,North,Online,3,5385,16155,Net Banking,1024
+70,2025-01-20,Jacket,Fashion,South,Offline,4,4895,19580,Cash,1015
+71,2025-06-26,Cupboard,Furniture,North,Online,3,26264,78792,Net Banking,1029
+72,2025-04-29,Sunglasses,Accessories,West,Offline,4,1405,5620,UPI,1021
+73,2025-03-16,Table,Furniture,West,Online,1,5755,5755,Credit Card,1050
+74,2025-01-29,Sofa,Furniture,East,Offline,2,24259,48518,Credit Card,1014
+75,2025-05-11,Speaker,Electronics,West,Online,1,1839,1839,Net Banking,1015
+76,2025-06-02,Sofa,Furniture,East,Offline,1,36446,36446,Credit Card,1007
+77,2025-06-18,Bag,Accessories,South,Online,3,1686,5058,Credit Card,1042
+78,2025-01-15,Camera,Electronics,West,Offline,4,29433,117732,Credit Card,1034
+79,2025-01-14,Watch,Accessories,North,Offline,4,5740,22960,Credit Card,1044
+80,2025-02-18,Camera,Electronics,South,Online,1,37168,37168,Net Banking,1012
+81,2025-03-11,Camera,Electronics,West,Offline,2,69005,138010,Net Banking,1009
+82,2025-04-13,Camera,Electronics,North,Online,4,42642,170568,UPI,1027
+83,2025-05-01,Watch,Accessories,West,Online,5,7366,36830,UPI,1027
+84,2025-05-12,Laptop,Electronics,South,Offline,1,49611,49611,Net Banking,1006
+85,2025-03-20,Bed,Furniture,East,Online,4,34487,137948,Credit Card,1029
+86,2025-04-05,Speaker,Electronics,West,Offline,5,6127,30635,Cash,1022
+87,2025-05-10,Wallet,Accessories,West,Online,2,1392,2784,Credit Card,1033
+88,2025-02-27,T-Shirt,Fashion,South,Offline,5,824,4120,Cash,1007
+89,2025-04-15,Headphones,Electronics,South,Online,5,4398,21990,Cash,1007
+90,2025-01-30,Sunglasses,Accessories,North,Online,1,3485,3485,Net Banking,1044
+91,2025-06-16,Cupboard,Furniture,South,Online,1,38580,38580,UPI,1038
+92,2025-05-27,Wallet,Accessories,South,Online,4,718,2872,Cash,1003
+93,2025-03-09,Bag,Accessories,East,Offline,4,3274,13096,Credit Card,1046
+94,2025-04-21,Sunglasses,Accessories,East,Online,4,2358,9432,UPI,1031
+95,2025-06-09,Bed,Furniture,East,Offline,4,49668,198672,Net Banking,1029
+96,2025-02-05,Sunglasses,Accessories,East,Offline,5,3480,17400,Net Banking,1017
+97,2025-03-07,Smart Watch,Electronics,North,Online,1,6635,6635,UPI,1041
+98,2025-05-25,Cupboard,Furniture,West,Offline,3,13088,39264,Credit Card,1024
+99,2025-03-07,Smart Watch,Electronics,South,Online,1,6848,6848,UPI,1045
+100,2025-03-24,T-Shirt,Fashion,North,Offline,1,926,926,Cash,1018
+101,2025-05-23,Sunglasses,Accessories,South,Online,5,1555,7775,Cash,1028
+102,2025-05-25,Laptop,Electronics,South,Offline,4,54536,218144,Cash,1009
+103,2025-05-21,Belt,Accessories,North,Offline,4,1413,5652,Cash,1022
+104,2025-01-08,Sunglasses,Accessories,West,Offline,3,3845,11535,Credit Card,1010
+105,2025-01-17,Headphones,Electronics,South,Online,3,3940,11820,Cash,1047
+106,2025-05-16,T-Shirt,Fashion,West,Offline,2,1367,2734,Net Banking,1028
+107,2025-06-01,Sunglasses,Accessories,East,Offline,1,1418,1418,Credit Card,1015
+108,2025-05-22,Watch,Accessories,West,Offline,3,5142,15426,Credit Card,1050
+109,2025-06-26,Jeans,Fashion,East,Offline,2,3014,6028,Credit Card,1016
+110,2025-02-20,Chair,Furniture,South,Offline,4,5038,20152,Cash,1008
+111,2025-06-02,Laptop,Electronics,South,Offline,5,55895,279475,Net Banking,1021
+112,2025-04-17,Watch,Accessories,East,Online,4,9084,36336,UPI,1006
+113,2025-04-21,Headphones,Electronics,North,Offline,1,3065,3065,UPI,1012
+114,2025-04-23,Chair,Furniture,South,Offline,5,3864,19320,Net Banking,1032
+115,2025-01-06,T-Shirt,Fashion,North,Online,4,1442,5768,Credit Card,1015
+116,2025-06-11,Smart Watch,Electronics,South,Offline,5,14795,73975,Net Banking,1044
+117,2025-01-12,Shoes,Fashion,West,Offline,5,3505,17525,Net Banking,1030
+118,2025-05-11,Sunglasses,Accessories,North,Online,3,2272,6816,Net Banking,1025
+119,2025-02-14,Laptop,Electronics,East,Online,5,63740,318700,Net Banking,1037
+120,2025-05-13,T-Shirt,Fashion,North,Offline,3,1116,3348,UPI,1027
+121,2025-05-07,Belt,Accessories,East,Offline,1,1191,1191,Credit Card,1036
+122,2025-04-09,Bag,Accessories,West,Offline,3,4252,12756,Credit Card,1046
+123,2025-04-02,Bag,Accessories,South,Offline,3,3827,11481,Credit Card,1008
+124,2025-05-06,T-Shirt,Fashion,North,Offline,5,918,4590,Credit Card,1003
+125,2025-04-18,Kurta,Fashion,West,Offline,5,919,4595,Net Banking,1024
+126,2025-06-01,Mobile,Electronics,East,Offline,5,31394,156970,UPI,1040
+127,2025-04-27,Camera,Electronics,West,Offline,5,56784,283920,Net Banking,1002
+128,2025-05-27,Sofa,Furniture,North,Offline,4,15331,61324,Net Banking,1029
+129,2025-04-14,Table,Furniture,West,Offline,4,11415,45660,Cash,1025
+130,2025-04-27,Sofa,Furniture,East,Offline,2,20797,41594,Net Banking,1018
+131,2025-04-10,Smart Watch,Electronics,North,Online,2,7462,14924,UPI,1020
+132,2025-04-06,Table,Furniture,South,Online,2,10271,20542,Net Banking,1011
+133,2025-03-09,Wallet,Accessories,East,Online,2,1700,3400,Cash,1046
+134,2025-02-19,Kurta,Fashion,West,Offline,2,1012,2024,UPI,1040
+135,2025-05-17,Laptop,Electronics,North,Offline,2,53829,107658,UPI,1031
+136,2025-03-03,Table,Furniture,West,Online,5,11725,58625,Credit Card,1019
+137,2025-03-16,Wallet,Accessories,North,Online,5,1098,5490,Cash,1028
+138,2025-03-23,Bag,Accessories,East,Online,2,4784,9568,UPI,1003
+139,2025-02-25,Speaker,Electronics,East,Online,3,9321,27963,Net Banking,1009
+140,2025-05-29,Laptop,Electronics,North,Online,3,64068,192204,Net Banking,1050
+141,2025-03-02,Belt,Accessories,East,Online,1,835,835,Credit Card,1040
+142,2025-02-08,Cupboard,Furniture,East,Online,1,12678,12678,Credit Card,1025
+143,2025-01-04,T-Shirt,Fashion,West,Offline,1,1270,1270,Credit Card,1043
+144,2025-04-04,Chair,Furniture,South,Online,4,2646,10584,Credit Card,1016
+145,2025-05-04,Jeans,Fashion,West,Offline,5,3578,17890,Net Banking,1012
+146,2025-02-17,Kurta,Fashion,South,Offline,3,1263,3789,Credit Card,1042
+147,2025-05-21,Speaker,Electronics,West,Online,4,6823,27292,Net Banking,1030
+148,2025-01-19,Cupboard,Furniture,North,Offline,5,34602,173010,Credit Card,1008
+149,2025-04-03,Jacket,Fashion,North,Online,4,2272,9088,UPI,1009
+150,2025-06-01,Headphones,Electronics,East,Offline,5,1935,9675,UPI,1020
+151,2025-04-02,Watch,Accessories,East,Offline,2,6565,13130,Cash,1048
+152,2025-01-25,Kurta,Fashion,West,Offline,1,2148,2148,Net Banking,1018
+153,2025-04-04,Shoes,Fashion,East,Offline,4,4251,17004,Cash,1043
+154,2025-05-14,Speaker,Electronics,South,Offline,3,7806,23418,Cash,1029
+155,2025-04-28,Kurta,Fashion,East,Online,5,845,4225,Cash,1013
+156,2025-03-12,Watch,Accessories,North,Online,5,9683,48415,Cash,1027
+157,2025-02-06,Cupboard,Furniture,East,Online,1,13069,13069,Net Banking,1004
+158,2025-04-07,Mobile,Electronics,West,Offline,2,16673,33346,Credit Card,1004
+159,2025-05-11,Smart Watch,Electronics,South,Offline,3,5192,15576,Credit Card,1034
+160,2025-05-07,Cupboard,Furniture,West,Offline,5,35945,179725,Credit Card,1034
+161,2025-05-25,Jeans,Fashion,South,Online,4,3090,12360,Credit Card,1031
+162,2025-01-22,T-Shirt,Fashion,North,Online,5,1349,6745,Cash,1019
+163,2025-03-11,Bag,Accessories,East,Online,4,4499,17996,Cash,1048
+164,2025-06-05,Bed,Furniture,South,Online,1,12885,12885,UPI,1016
+165,2025-02-07,Bed,Furniture,East,Offline,5,28662,143310,Cash,1004
+166,2025-03-02,Cupboard,Furniture,East,Online,1,8527,8527,UPI,1047
+167,2025-04-09,Table,Furniture,South,Offline,4,9316,37264,Net Banking,1029
+168,2025-06-10,T-Shirt,Fashion,North,Offline,1,743,743,Net Banking,1021
+169,2025-06-06,Sunglasses,Accessories,South,Offline,3,2121,6363,Cash,1033
+170,2025-04-19,Table,Furniture,West,Offline,5,14364,71820,Credit Card,1042
+171,2025-05-29,Chair,Furniture,West,Offline,4,6858,27432,Cash,1050
+172,2025-06-03,Mobile,Electronics,North,Offline,5,27985,139925,Net Banking,1020
+173,2025-01-06,Wallet,Accessories,West,Offline,5,1614,8070,Net Banking,1026
+174,2025-05-07,T-Shirt,Fashion,South,Online,1,963,963,Net Banking,1026
+175,2025-03-05,Sunglasses,Accessories,South,Online,4,830,3320,UPI,1016
+176,2025-04-19,Jeans,Fashion,North,Online,2,3341,6682,Credit Card,1002
+177,2025-06-01,Kurta,Fashion,South,Online,5,1696,8480,Cash,1002
+178,2025-03-02,Jeans,Fashion,East,Online,5,3863,19315,Net Banking,1021
+179,2025-01-24,Kurta,Fashion,North,Online,1,2482,2482,Net Banking,1009
+180,2025-02-19,Chair,Furniture,East,Online,1,4339,4339,Cash,1009
+181,2025-06-26,Shoes,Fashion,South,Offline,1,4371,4371,Net Banking,1029
+182,2025-06-15,Bed,Furniture,East,Offline,1,29929,29929,UPI,1016
+183,2025-03-05,Wallet,Accessories,East,Offline,1,1435,1435,UPI,1004
+184,2025-03-22,Kurta,Fashion,North,Offline,3,1714,5142,Cash,1009
+185,2025-03-05,Kurta,Fashion,West,Offline,4,1267,5068,UPI,1010
+186,2025-06-23,Table,Furniture,North,Offline,3,7279,21837,UPI,1004
+187,2025-06-20,Smart Watch,Electronics,East,Offline,4,3488,13952,Net Banking,1032
+188,2025-05-15,Speaker,Electronics,North,Online,5,8078,40390,Cash,1016
+189,2025-05-30,Bag,Accessories,North,Offline,3,3341,10023,UPI,1027
+190,2025-03-14,Jacket,Fashion,South,Offline,5,4638,23190,Net Banking,1005
+191,2025-03-01,T-Shirt,Fashion,South,Offline,1,1102,1102,Credit Card,1018
+192,2025-03-07,Jeans,Fashion,South,Offline,4,2532,10128,Net Banking,1034
+193,2025-04-22,Headphones,Electronics,East,Online,4,970,3880,Net Banking,1048
+194,2025-05-09,Speaker,Electronics,South,Offline,1,6648,6648,UPI,1014
+195,2025-04-30,Smart Watch,Electronics,East,Offline,1,12686,12686,UPI,1039
+196,2025-05-26,Watch,Accessories,South,Online,4,3036,12144,Net Banking,1037
+197,2025-05-10,Wallet,Accessories,South,Offline,5,1053,5265,UPI,1028
+198,2025-05-12,Shoes,Fashion,South,Online,2,2310,4620,Credit Card,1029
+199,2025-02-09,Bag,Accessories,North,Online,3,3528,10584,Cash,1035
+200,2025-01-07,Belt,Accessories,West,Offline,2,1296,2592,Credit Card,1003
+201,2025-04-06,Jacket,Fashion,West,Online,1,2051,2051,Net Banking,1003
+202,2025-05-31,Sofa,Furniture,East,Online,4,52632,210528,Net Banking,1042
+203,2025-06-14,Cupboard,Furniture,North,Offline,5,16697,83485,UPI,1003
+204,2025-03-27,Shoes,Fashion,East,Offline,1,2168,2168,Credit Card,1032
+205,2025-04-23,Belt,Accessories,South,Online,5,1216,6080,Credit Card,1049
+206,2025-03-20,Wallet,Accessories,East,Online,5,1904,9520,Credit Card,1030
+207,2025-02-01,Chair,Furniture,West,Online,4,6591,26364,Cash,1044
+208,2025-03-02,Laptop,Electronics,North,Online,2,45497,90994,Credit Card,1021
+209,2025-03-15,Chair,Furniture,East,Offline,3,4486,13458,Credit Card,1048
+210,2025-04-13,Table,Furniture,South,Offline,4,4871,19484,Net Banking,1008
+211,2025-03-16,Bag,Accessories,East,Offline,2,4610,9220,UPI,1011
+212,2025-01-19,Smart Watch,Electronics,South,Online,5,3445,17225,UPI,1005
+213,2025-02-10,Camera,Electronics,West,Online,2,53258,106516,Cash,1045
+214,2025-05-13,Wallet,Accessories,South,Offline,5,1566,7830,Net Banking,1005
+215,2025-06-30,Table,Furniture,South,Offline,3,4771,14313,Credit Card,1033
+216,2025-03-10,Bed,Furniture,West,Online,5,26168,130840,UPI,1049
+217,2025-04-15,Headphones,Electronics,West,Online,5,3742,18710,Cash,1012
+218,2025-03-02,Smart Watch,Electronics,North,Offline,2,9753,19506,Net Banking,1005
+219,2025-04-29,Bed,Furniture,North,Online,1,36496,36496,Cash,1041
+220,2025-05-12,Shoes,Fashion,East,Online,4,2590,10360,Cash,1044
+221,2025-02-04,Watch,Accessories,East,Offline,4,4416,17664,UPI,1040
+222,2025-03-07,Smart Watch,Electronics,East,Offline,1,5738,5738,Cash,1033
+223,2025-03-03,Laptop,Electronics,North,Online,2,73701,147402,UPI,1042
+224,2025-05-29,Bag,Accessories,South,Offline,5,4117,20585,Net Banking,1049
+225,2025-03-12,Table,Furniture,East,Online,2,7261,14522,UPI,1007
+226,2025-03-09,Shoes,Fashion,East,Online,2,1414,2828,Credit Card,1036
+227,2025-04-19,Cupboard,Furniture,East,Online,5,33124,165620,Cash,1042
+228,2025-01-31,Jacket,Fashion,North,Online,1,5743,5743,UPI,1032
+229,2025-03-27,Mobile,Electronics,North,Offline,4,33394,133576,UPI,1025
+230,2025-04-22,Headphones,Electronics,South,Offline,1,866,866,Net Banking,1003
+231,2025-02-13,Sofa,Furniture,East,Online,3,33238,99714,Credit Card,1035
+232,2025-06-30,Shoes,Fashion,West,Offline,1,3939,3939,Net Banking,1003
+233,2025-05-08,Headphones,Electronics,West,Online,2,4868,9736,Credit Card,1032
+234,2025-06-13,Laptop,Electronics,North,Offline,1,51706,51706,UPI,1025
+235,2025-03-04,Watch,Accessories,West,Offline,3,5310,15930,Credit Card,1014
+236,2025-05-12,T-Shirt,Fashion,West,Online,3,1315,3945,Cash,1049
+237,2025-06-29,Jacket,Fashion,East,Online,4,4097,16388,Cash,1041
+238,2025-05-08,Headphones,Electronics,North,Online,3,3745,11235,Credit Card,1022
+239,2025-03-16,Watch,Accessories,East,Offline,3,8287,24861,Credit Card,1042
+240,2025-06-21,Chair,Furniture,West,Online,1,3685,3685,Credit Card,1028
+241,2025-04-12,Kurta,Fashion,South,Offline,4,1351,5404,Net Banking,1034
+242,2025-03-16,Chair,Furniture,North,Offline,3,5301,15903,Cash,1041
+243,2025-02-23,Jacket,Fashion,East,Offline,2,3668,7336,Net Banking,1048
+244,2025-01-17,Jacket,Fashion,South,Online,3,4029,12087,Net Banking,1011
+245,2025-04-06,Cupboard,Furniture,West,Online,3,27538,82614,Cash,1024
+246,2025-05-24,Wallet,Accessories,North,Online,1,1761,1761,UPI,1035
+247,2025-06-08,Belt,Accessories,West,Offline,4,1123,4492,Net Banking,1025
+248,2025-04-05,Belt,Accessories,East,Offline,3,506,1518,Credit Card,1028
+249,2025-02-23,Jeans,Fashion,East,Online,3,1681,5043,UPI,1045
+250,2025-06-15,T-Shirt,Fashion,North,Offline,2,1124,2248,Net Banking,1002
+251,2025-04-09,Bag,Accessories,North,Offline,3,3868,11604,Credit Card,1022
+252,2025-01-16,Wallet,Accessories,South,Offline,5,580,2900,Cash,1022
+253,2025-04-30,Table,Furniture,South,Offline,2,3351,6702,Net Banking,1047
+254,2025-03-24,Sunglasses,Accessories,North,Offline,2,2219,4438,Net Banking,1047
+255,2025-02-23,Table,Furniture,North,Offline,3,3641,10923,Credit Card,1013
+256,2025-01-07,Belt,Accessories,North,Online,4,1112,4448,Net Banking,1031
+257,2025-02-17,Shoes,Fashion,South,Offline,4,4635,18540,Credit Card,1027
+258,2025-02-28,Laptop,Electronics,East,Offline,1,52353,52353,Cash,1007
+259,2025-06-10,Headphones,Electronics,South,Offline,5,3992,19960,UPI,1033
+260,2025-03-02,Chair,Furniture,East,Online,2,4766,9532,Cash,1018
+261,2025-02-02,Belt,Accessories,East,Online,5,771,3855,Cash,1040
+262,2025-02-04,Jacket,Fashion,North,Online,2,3062,6124,Net Banking,1021
+263,2025-05-10,T-Shirt,Fashion,West,Online,2,1105,2210,Cash,1010
+264,2025-01-08,Wallet,Accessories,South,Offline,3,1890,5670,UPI,1032
+265,2025-03-07,Laptop,Electronics,East,Online,2,41439,82878,UPI,1010
+266,2025-05-05,Laptop,Electronics,North,Online,2,74398,148796,UPI,1039
+267,2025-03-27,Sofa,Furniture,South,Offline,2,57644,115288,UPI,1006
+268,2025-06-05,Headphones,Electronics,South,Online,1,2031,2031,Net Banking,1016
+269,2025-04-10,Shoes,Fashion,North,Offline,3,3793,11379,UPI,1003
+270,2025-01-24,Chair,Furniture,West,Offline,3,5956,17868,Net Banking,1015
+271,2025-03-23,Watch,Accessories,East,Online,2,2526,5052,Credit Card,1011
+272,2025-05-23,Jacket,Fashion,North,Online,5,3942,19710,Net Banking,1008
+273,2025-05-14,Sunglasses,Accessories,North,Online,1,1113,1113,Net Banking,1018
+274,2025-05-24,Shoes,Fashion,West,Online,2,1487,2974,Net Banking,1021
+275,2025-04-07,Jeans,Fashion,West,Online,4,3828,15312,Cash,1017
+276,2025-05-18,Sunglasses,Accessories,South,Online,2,3495,6990,Net Banking,1039
+277,2025-02-08,Shoes,Fashion,West,Online,2,4871,9742,Net Banking,1042
+278,2025-03-11,Shoes,Fashion,West,Online,1,3442,3442,Credit Card,1046
+279,2025-06-12,Shoes,Fashion,East,Offline,1,3577,3577,Credit Card,1014
+280,2025-04-14,Watch,Accessories,North,Online,4,4330,17320,Credit Card,1043
+281,2025-04-15,T-Shirt,Fashion,East,Offline,4,804,3216,Net Banking,1043
+282,2025-04-08,Table,Furniture,West,Online,5,10775,53875,Cash,1003
+283,2025-01-24,Watch,Accessories,South,Offline,4,2463,9852,Net Banking,1010
+284,2025-04-24,Smart Watch,Electronics,North,Online,2,5272,10544,UPI,1009
+285,2025-06-16,Bed,Furniture,West,Online,5,47366,236830,UPI,1023
+286,2025-04-07,Sofa,Furniture,East,Online,5,18402,92010,UPI,1028
+287,2025-01-08,Belt,Accessories,North,Online,3,399,1197,UPI,1043
+288,2025-06-14,Cupboard,Furniture,West,Online,3,19436,58308,UPI,1020
+289,2025-03-23,Speaker,Electronics,North,Online,2,5243,10486,UPI,1018
+290,2025-02-25,Shoes,Fashion,East,Offline,1,1616,1616,Cash,1048
+291,2025-06-01,Camera,Electronics,West,Offline,4,69263,277052,Net Banking,1048
+292,2025-03-05,Bed,Furniture,West,Offline,3,25653,76959,Cash,1041
+293,2025-02-16,Camera,Electronics,West,Online,4,36994,147976,UPI,1032
+294,2025-02-13,Headphones,Electronics,South,Online,1,4841,4841,Net Banking,1039
+295,2025-01-17,Sunglasses,Accessories,East,Offline,4,3084,12336,Cash,1045
+296,2025-06-29,Speaker,Electronics,South,Online,1,5482,5482,Net Banking,1026
+297,2025-03-11,T-Shirt,Fashion,East,Online,3,585,1755,Credit Card,1042
+298,2025-06-05,Table,Furniture,South,Online,2,9567,19134,Credit Card,1016
+299,2025-03-28,Cupboard,Furniture,North,Online,4,17572,70288,UPI,1009
+300,2025-05-30,Jacket,Fashion,West,Offline,4,2063,8252,Net Banking,1023
